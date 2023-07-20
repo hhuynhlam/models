@@ -92,6 +92,7 @@ dist/
 dmypy.json
 docs/_build/
 downloads/
+easy-diffusion/
 eggs/
 env.bak/
 env/
