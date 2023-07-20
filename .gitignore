@@ -1,5 +1,4 @@
 *$py.class
-*.ckpt
 *.cover
 *.egg
 *.egg-info/
